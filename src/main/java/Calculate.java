@@ -10,7 +10,7 @@ class Calculate {
                 ret = a + b;
                 break;
             case "-":
-                ret = a + b;
+                ret = a - b; 
                 break;
             case "*":
                 ret = a * b;
